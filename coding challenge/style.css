@@ -1,0 +1,122 @@
+*{margin:0;
+  padding:0;
+  box-sizing: border-box;
+  
+}
+body{
+  background-image: url(foto/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  
+}
+
+.container{
+  width: 1000px;
+  height: 1000px;
+  margin:auto;
+  font-family: 'Poppins', sans-serif;
+ 
+  }
+
+  
+
+
+header{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.logo{
+  width: 200px;
+  height:100px;
+}
+.title{
+  color:limegreen;
+}
+
+.barra-menu{
+ display: inline-block;
+ width: 1000px;
+ height:40px;
+  background-color:limegreen;
+  
+  
+}
+
+main{
+  text-align: center;
+}
+
+.pulsanti-menu{
+  display: inline-block;
+  margin-top:6px;
+}
+
+.first{
+  margin-top:40px;
+  
+
+}
+
+.linea-ricarica-1{
+  width: 500px;
+ height:30px;
+  background-color:orange;
+  border-radius:10px;
+
+}
+
+
+.secondo{
+  margin-top:40px;
+
+}
+
+.linea-ricarica-2{
+  width: 800px;
+ height:30px;
+  background-color:red;
+  border-radius:10px;
+
+}
+
+.linea-ricarica-3{
+  width: 200px;
+ height:30px;
+  background-color:purple;
+  border-radius:10px;
+
+}
+
+.terzo{
+  margin-top:40px;
+
+}
+.monopattino-1{
+  font-size: 20px;
+    font-weight: bolder;
+}
+
+.monopattino-2{
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.monopattino-3{
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+#via{
+  font-weight: 800;
+}
+
+.stato-ricarica{
+  font-weight: 800;
+
+}
+section{
+  color:white;
+}
+
